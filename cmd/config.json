@@ -1,0 +1,10 @@
+{
+  "Server": {
+    "ServerType": "rpc",
+    "HTTPPort": 9220,
+    "RPCPort": 9221,
+    "Log": "./app.log",
+    "HTTPAccessLog": "./access.log",
+    "RPCAccessLog": "./rpc-access.log"
+  }
+}
