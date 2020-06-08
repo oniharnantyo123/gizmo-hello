@@ -1,4 +1,4 @@
-module gizmo-hello
+module github.com/oniharnantyo123/gizmo-hello
 
 go 1.14
 
